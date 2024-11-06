@@ -16,5 +16,3 @@ app.listen(8080, () => {
     "Server is running on port 8080. Check the app on http://localhost:8080"
   );
 });
-
-export const handler = Serverless(app);
